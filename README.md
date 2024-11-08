@@ -1,6 +1,6 @@
 # TicTacToe
 
-This is game made with ReactJS. The object is to make X or O in straight row or column in every direction. 
+This is game made with ReactJS. The object is to make X or O in straight row, column, or diagonal in every direction. 
 
 ## Running locally
 
